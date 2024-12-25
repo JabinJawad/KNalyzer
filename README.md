@@ -14,7 +14,7 @@ K'Nalyzer is a powerful tool designed to analyze and generate insightful data fo
 
 ### **Getting Started**
 #### **Download the Tool**
-1. Go to the [Releases Section](https://github.com/your-username/KNalyzer/releases) to download the latest version of K'Nalyzer.
+1. Go to the [Releases Section](https://github.com/JabinJawad/KNalyzer/releases) to download the latest version of K'Nalyzer.
 2. Click on the `.exe` file to download.
 
 #### **Run the Tool**
