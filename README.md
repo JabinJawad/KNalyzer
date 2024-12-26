@@ -39,7 +39,7 @@ K'Nalyzer is a powerful and easy-to-use tool designed to analyze and gather deta
 Some antivirus software might flag the file as suspicious because it’s an unsigned executable. Rest assured, the file is safe if downloaded directly from this repository.
 
 #### **2. Does the tool require an internet connection?**
-K'Nalyzer works offline for most features but may require an internet connection for some advanced functionalities.
+Yes.
 
 ---
 
