@@ -1,4 +1,5 @@
-# **K'Nalyzer - Domain Analyzer**
+# **K'Nalyzer** 
+_The All-in-One Domain Analyzer App_
 
 ### **Overview**
 K'Nalyzer is a powerful and easy-to-use tool designed to analyze and gather detailed information about domains and IP addresses. Whether you're a cybersecurity professional, a network administrator, or a casual user, K'Nalyzer helps you understand the technical aspects of any domain or IP, providing you with WHOIS data, DNS records, SSL certificate information, hosting provider details, and more.
